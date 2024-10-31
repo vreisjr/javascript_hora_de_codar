@@ -1,0 +1,18 @@
+* {
+    background-color: #111111;
+    color: white;
+}
+
+h1{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+.menu, .topicos{
+    font-size: 25px;
+}
+
+.menu .indice {
+    text-align: center;
+}
